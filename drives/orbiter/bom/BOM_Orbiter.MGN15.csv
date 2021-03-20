@@ -1,0 +1,13 @@
+Item,Quantity,Name,Material
+1,1,top_endstop_plug_mgn15,PETG
+2,1,top_orbiter_mgn15,PETG
+3,4,DIN 912 M3 10 mm,Hardened Alloy Steel
+4,4,DIN 912 M3 40 mm,Hardened Alloy Steel
+5,1,DIN 912 M3 6 mm,Hardened Alloy Steel
+6,3,"M3  Hex nut ",Hardened Alloy Steel
+7,1,Orbiter,- None -
+8,1,DIN 912 M3 8 mm,Hardened Alloy Steel
+9,1,Duct v2.1 Straight,PETG
+10,1,bottom_mgn15,PETG
+11,2,DIN 912 M3 20 mm,Hardened Alloy Steel
+12,1,top_orbiter_mgn15,PETG
